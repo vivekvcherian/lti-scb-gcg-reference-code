@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: router
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 10641260
+Implementation-Vendor-Id: com.scb
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/router
+Created-By: Maven Integration for Eclipse
+
